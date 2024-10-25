@@ -1,0 +1,20 @@
+header {border-color: brown;
+    border-style: dotted;
+    border-width: 7px;
+    margin-left: 25%;
+    margin-right: 36%;
+}
+
+main {border-color: blue;
+    border-style: dotted;
+    border-width: 7px;
+    margin-left: 25%;
+    margin-right: 36%;
+}
+
+footer {border-color: brown;
+    border-style: dotted;
+    border-width: 7px;
+    margin-left: 25%;
+    margin-right: 36%;
+}
